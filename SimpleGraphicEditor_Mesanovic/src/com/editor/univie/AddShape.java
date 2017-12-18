@@ -1,5 +1,5 @@
 package com.editor.univie;
-// TEST
+// TEST2
 public class AddShape implements Strategy {
 
 	@Override
